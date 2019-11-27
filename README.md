@@ -4,6 +4,24 @@
 
 cordovaでライブ配信を行うサンプルアプリです
 
+https://bambuser.com
+の機能を使ってます
+
+公式の開発ドキュメントのサンプルがサンプルがIonicとAngularだったので、
+https://bambuser.com/docs/
+CordovaとVueで作ったものがこのリポジトリです
+
+## 前提
+
+https://bambuser.com
+に登録済みで、APIキーとアプリケーションIDを取得している必要があります
+
+## 環境
+
+Vue: 3.4.1
+Cordova: 9.0.0
+cordova-plugin-bambuser: 0.9.10
+
 ## 利用プラグイン
 
 https://github.com/bambuser/cordova-plugin-bambuser
